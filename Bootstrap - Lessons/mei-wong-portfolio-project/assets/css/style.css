@@ -19,3 +19,18 @@ h2 {
     font-family: 'DM Serif Display', serif;
     color: #184f63; /* dark-blue */
 }
+
+/* About section */
+#about {
+    background-color: white;
+}
+
+/* Portfolio section */
+#portfolio {
+    background-color: #dbdcde; /* light grey */
+}
+
+/* Contact section */
+#contact {
+    background-color: white;
+}
