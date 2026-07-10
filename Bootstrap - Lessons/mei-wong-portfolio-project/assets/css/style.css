@@ -34,3 +34,13 @@ h2 {
 #contact {
     background-color: white;
 }
+
+/* Hero section */
+#hero {
+    background: url("../images/background.webp");
+    min-height: 500px;
+    background-position: 50% 70%;
+    background-size: cover;
+    padding: 5% 7%;
+    background-color: #dbdcde; /* light grey */
+}
